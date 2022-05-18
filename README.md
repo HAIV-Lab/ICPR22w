@@ -28,7 +28,7 @@ Inference speed on Intel Core i7-10750H CPU and NVIDIA GTX 1650Ti (Notebooks) GP
 | Lite-HRNet30 | 67.2 |   7.5    |   6.2    |  0.31  |
 |     Ours     | 65.8 |   55.2   |   18.3   |  0.58  |
 
-<img src="\imgs\speed.png" alt="speed" style="zoom:40%;" />
+<img src="/imgs/speed.png" alt="speed" style="zoom:40%;" />
 
 ## Installation and Preparation
 
