@@ -38,6 +38,14 @@ Please refer to MMPose's [documentation](https://mmpose.readthedocs.io/en/latest
 
 The code is developed using python 3.7 on Ubuntu 20.04. The code is developed and tested using a single NVIDIA RTX 3090 GPU. Other platforms or GPU cards are not fully tested.
 
+## Cite us
+@article{li2022lightweight,
+  title={Lightweight Human Pose Estimation Using Heatmap-Weighting Loss},
+  author={Li, Shiqi and Xiang, Xiang},
+  journal={arXiv preprint arXiv:2205.10611},
+  year={2022}
+}
+
 ## Acknowledgement
 
 Thanks to:
