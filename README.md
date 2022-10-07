@@ -1,6 +1,6 @@
 # Lightweight Human Pose Estimation Using Loss Weighted by Target Heatmap
 
-This is an official implementation of *Lightweight Human Pose Estimation Using Loss Weighted by Target Heatmap* that is accepted to ICPR TCAP workshop. The code is developed based on the repository of [MMPose](https://github.com/open-mmlab/mmpose).
+This is an official implementation of *Lightweight Human Pose Estimation Using Loss Weighted by Target Heatmap* that is accepted to ICPR TCAP workshop and honored as Best Paper Award (Honorable Mention). The code is developed based on the repository of [MMPose](https://github.com/open-mmlab/mmpose).
 
 ## Introduction
 
